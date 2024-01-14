@@ -1,10 +1,10 @@
 # GSabers
 Lightsaber Mod For Gorilla Tag
 
-#Features
+# Features:
 > Ignite & Extinguish The Blade
 
-#Future Plans
+# Future Plans:
 > Custom Blade Colors
 
 > Multiple Hilts
