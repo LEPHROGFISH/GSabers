@@ -1,5 +1,5 @@
 # Controls:
-> Press A or Primary Button On Your Right Controller To Ignite Or Extinguish The Blade Of The Saber
+> Press A / The Primary Button On Your Right Controller To Ignite Or Extinguish The Blade Of The Saber
 
 # Features:
 > Ignite & Extinguish The Blade
